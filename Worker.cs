@@ -31,12 +31,14 @@ namespace WebsiteStatus
                 var result = await client.GetAsync("https://www.iamtimcorey.com");
                 if (result.IsSuccessStatusCode)
                 {
-                    _logger.LogInformation("The website is up. Status code {StatusCode}", result.StatusCode);
+                    _logger.LogInformation("The website is up. Status code {StatusCode} at {time}", result.StatusCode, DateTimeOffset.Now);
                 }
                 else
                 {
                     _logger.LogError("The website is down. Status code {StatusCode}", result.StatusCode);
                 }
+
+                await Task.Delay(5000, stoppingToken);
             }
         }
     }
