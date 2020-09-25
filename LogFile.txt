@@ -1,0 +1,37 @@
+2020-09-24 10:43:00.384 +02:00 [INF] Starting up the service
+2020-09-24 10:43:01.568 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T10:43:01.5669197+02:00"
+2020-09-24 10:43:07.196 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T10:43:07.1964402+02:00"
+2020-09-24 10:43:12.954 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T10:43:12.9541593+02:00"
+2020-09-24 14:00:13.600 +02:00 [INF] Starting up the service
+2020-09-24 14:00:15.242 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:00:15.2405470+02:00"
+2020-09-24 14:00:20.854 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:00:20.8542715+02:00"
+2020-09-24 14:01:30.564 +02:00 [INF] Starting up the service
+2020-09-24 14:01:31.765 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:01:31.7624929+02:00"
+2020-09-24 14:01:37.423 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:01:37.4234675+02:00"
+2020-09-24 14:01:43.026 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:01:43.0263066+02:00"
+2020-09-24 14:07:39.592 +02:00 [INF] Starting up the service
+2020-09-24 14:07:40.644 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:07:40.6419277+02:00"
+2020-09-24 14:07:46.253 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:07:46.2529728+02:00"
+2020-09-24 14:07:51.863 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:07:51.8634417+02:00"
+2020-09-24 14:36:14.263 +02:00 [INF] Starting up the service
+2020-09-24 14:36:15.743 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:36:15.7413194+02:00"
+2020-09-24 14:36:21.484 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:36:21.4845089+02:00"
+2020-09-24 14:36:27.092 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:36:27.0923926+02:00"
+2020-09-24 14:36:33.075 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:36:33.0751589+02:00"
+2020-09-24 14:36:55.345 +02:00 [INF] Starting up the service
+2020-09-24 14:36:56.229 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:36:56.2273062+02:00"
+2020-09-24 14:37:01.837 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:37:01.8369926+02:00"
+2020-09-24 14:37:07.164 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:37:07.1646976+02:00"
+2020-09-24 14:37:12.495 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:37:12.4956470+02:00"
+2020-09-24 14:37:18.210 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:37:18.2099363+02:00"
+2020-09-24 14:37:23.829 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:37:23.8297279+02:00"
+2020-09-24 14:37:29.431 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:37:29.4314731+02:00"
+2020-09-24 14:37:35.186 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:37:35.1866262+02:00"
+2020-09-24 14:37:40.455 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:37:40.4548465+02:00"
+2020-09-24 14:38:47.689 +02:00 [INF] Starting up the service
+2020-09-24 14:38:48.506 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:38:48.5043217+02:00"
+2020-09-24 14:38:54.131 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:38:54.1310245+02:00"
+2020-09-24 14:38:59.721 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:38:59.7207422+02:00"
+2020-09-24 14:39:05.338 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:39:05.3378823+02:00"
+2020-09-24 14:39:10.723 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:39:10.7230768+02:00"
+2020-09-24 14:39:16.007 +02:00 [INF] The website is up. Status code "OK" at "2020-09-24T14:39:16.0074428+02:00"
